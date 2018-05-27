@@ -30,8 +30,9 @@ Vystudoval obor Aplikovaná ekonomie na CERGE-EI (M.A.) a obor Finance na Vysok�
 
 Působí na pozici data scientist v technologickém start-upu vyvíjejícím datové produkty pro zdravotnictví a farmacii. V minulosti byl zaměstnán na oddělení restrukturalizací a insolvencí ve velké čtyřce.
 
-Zajímá se o problematiku veřejných financí a infomační asymetrie v oblasti zdravotnictví. Je spoluautorem pirátské daňové reformy „Daně, které každý pochopí“, včetně její stěžejní části, superrovné daně. https://www.pirati.cz/program/temata/danova-reforma/
+Zajímá se o problematiku veřejných financí a infomační asymetrie v oblasti zdravotnictví. Je spoluautorem [pirátské daňové reformy „Daně, které každý pochopí“][dane], včetně její stěžejní části, superrovné daně.
 
 Je vášnivým vodákem, na kajaku sjel řeky v jedenácti zemích Evropy. Dále je příznivcem a pravidelným návštěvníkem procházek organizovaných iniciativou Vetřelci a volavky. S přáteli rád hraje deskové hry a sběratelskou karetní hru Magic the Gathering. 
 
 [vzp]: https://www.vzp.cz/o-nas/kdo-jsme/organizacni-struktura/dozorci-rada
+[dane]: https://www.pirati.cz/program/temata/danova-reforma/
